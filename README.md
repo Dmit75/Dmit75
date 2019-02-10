@@ -1,2 +1,2 @@
 # Dmit75
-web app fr github pages
+web app for github pages
